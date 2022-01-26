@@ -13,7 +13,7 @@ I also maintain various tools to help automate my life, like [quantelconnect](ht
 
 💬 Ask me about fox facts
 
-📫 Reach me on here (though I can be away for a couple weeks at times)
+📫 Reach me over at `contact <at> vulpinecitrus <dot> info` (though it can take a couple days for me to see your email)
 
 😄 Pronouns: They/Them
 
