@@ -11,7 +11,7 @@ I also maintain various tools to help automate my life, like [quantelconnect](ht
 
 🌱 I’m currently learning about [Linux Kernel module development in Rust](https://github.com/Rust-for-Linux), as well as asynchronous programming in Rust with [TokIO](https://lib.rs/crates/tokio/).
 
-💬 Ask me about fox facts 🦊
+💬 Ask me about fox facts 🦊 and network protocols
 
 📫 Reach me over at `contact <at> vulpinecitrus <dot> info` (though it can take a couple days for me to see your email)
 
