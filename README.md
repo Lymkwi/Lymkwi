@@ -32,7 +32,8 @@ If you're looking for more of the things I do, I have my own [git hosting servic
 I also talk about some things I do on my [blog](https://vulpinecitrus.info/blog/).
 
 
-![Github statistics](https://github-readme-stats.vercel.app/api?username=Lymkwi&show_icons=true&theme=ocean_dark&include_all_commits=true&custom_title=Github%20Stats&hide=stars)
+![Github statistics](https://github-readme-stats.vercel.app/api?username=Lymkwi&show_icons=true&theme=ocean_dark&include_all_commits=true)
+<!--![Github statistics](https://github-readme-stats.vercel.app/api?username=Lymkwi&show_icons=true&theme=ocean_dark&include_all_commits=true&custom_title=Github%20Stats&hide=stars)-->
 
 <!--
 **Lymkwi/Lymkwi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
