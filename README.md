@@ -9,6 +9,10 @@ I mainly use [Rust](https://rust-lang.org) 🦀, [Python](https://python.org/) �
 and [C](https://en.wikipedia.org/wiki/Technical_debt).
 I also know some Java ☕, a healthy amount of Bash, and a light touch of Lua 🌙.
 
+Most of my actual personal work happens on [my
+forge](https://git.vulpinecitrus.info/), this account is mostly used for
+projects already on GitHub nowadays.
+
 ---
 
 🔭 I’m currently a member of [Insalan](https://github.com/INSAlan), the largest student-led LAN tournament event in France. I was in charge of the network and systems team for the 16th edition (March 2022), which welcomed more than 300 players for a whole weekend.
@@ -22,7 +26,7 @@ I also maintain various tools to help automate my life, like [quantelconnect](ht
 
 📫 Reach me over at `contact <at> vulpinecitrus <dot> info` (though it can take a couple days for me to see your email)
 
-😄 Pronouns: They/She
+🦊 Pronouns: they/it/she
 
 ⚡ Fun fact: A group of foxes can be called "an earth".
 
