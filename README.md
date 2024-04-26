@@ -1,13 +1,13 @@
 ### Hi 👋
 
-I'm Lymkwi, or Lux. 🦊
+i'm Lymkwi, or Lux. 🦊
 
-I'm a Computer Science PhD student, and somehow I have a master's degree in Software Engineering 🖥️ 🎓.
+i'm a Computer Science PhD student, and somehow i have a master's degree in Software Engineering 🖥️ 🎓.
 
-I'm a tinkerer, interested in FOSS, network security, and kernel programming.
-I mainly use [Rust](https://rust-lang.org) 🦀, [Python](https://python.org/) 🐍,
+i'm a tinkerer, interested in FOSS, network security, and kernel programming.
+i mainly use [Rust](https://rust-lang.org) 🦀, [Python](https://python.org/) 🐍,
 and [C](https://en.wikipedia.org/wiki/Technical_debt).
-I also know some Java ☕, a healthy amount of Bash, and a light touch of Lua 🌙.
+i also know some Java ☕, a healthy amount of Bash, and a light touch of Lua 🌙.
 
 Most of my actual personal work happens on [my
 forge](https://git.vulpinecitrus.info/), this account is mostly used for
@@ -15,10 +15,10 @@ projects already on GitHub nowadays.
 
 ---
 
-🔭 I’m currently a member of [Insalan](https://github.com/INSAlan), the largest student-led LAN tournament event in France. I was in charge of the network and systems team for the 16th edition (March 2022), which welcomed more than 300 players for a whole weekend.
-I also maintain various tools to help automate my life, like [quantelconnect](https://github.com/Lymkwi/quantelconnect), or [Logboop](https://github.com/Lymkwi/logboop-rs/). I'm also a former core maintainer for [MinetestForFun](https://github.com/MinetestForFun/) where I managed and wrote hundreds of game mods (and learned git on the fly).
+🔭 i’m currently a member of [Insalan](https://github.com/INSAlan), the largest student-led LAN tournament event in France. i was in charge of the network and systems team for the 16th edition (March 2022), which welcomed more than 300 players for a whole weekend.
+i also maintain various tools to help automate my life, like [quantelconnect](https://github.com/Lymkwi/quantelconnect), or [Logboop](https://github.com/Lymkwi/logboop-rs/). i'm also a former core maintainer for [MinetestForFun](https://github.com/MinetestForFun/) where i managed and wrote hundreds of game mods (and learned git on the fly).
 
-🌱 I’m currently learning about [Linux Kernel module development in Rust](https://github.com/Rust-for-Linux), trying to contribute network API support code, as well as asynchronous programming in Rust with [TokIO](https://lib.rs/crates/tokio/).
+🌱 i’m currently learning about [Linux Kernel module development in Rust](https://github.com/Rust-for-Linux), trying to contribute network API support code, as well as asynchronous programming in Rust with [TokIO](https://lib.rs/crates/tokio/).
 
 🎁 Currently involved in developing a fancy new website 👀
 
@@ -32,8 +32,8 @@ I also maintain various tools to help automate my life, like [quantelconnect](ht
 
 ---
 
-If you're looking for more of the things I do, I have my own [git hosting service](https://git.vulpinecitrus.info/).
-I also talk about some things I do on my [blog](https://vulpinecitrus.info/blog/).
+If you're looking for more of the things i do, i have my own [git hosting service](https://git.vulpinecitrus.info/).
+i also talk about some things i do on my [blog](https://vulpinecitrus.info/blog/).
 
 
 ![Github statistics](https://github-readme-stats.vercel.app/api?username=Lymkwi&show_icons=true&theme=ocean_dark&include_all_commits=true)
