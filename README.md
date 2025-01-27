@@ -26,7 +26,7 @@ support code, as well as learning about Rust interop with other languages.
 
 📫 Reach me over at `contact <at> vulpinecitrus <dot> info` (though it can take a couple days for me to see your email)
 
-🦊 Pronouns: they/it/she
+🦊 Pronouns: it/they/she
 
 ---
 
